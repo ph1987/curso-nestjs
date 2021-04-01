@@ -1,3 +1,6 @@
+<p>Criação de um projeto RESTFul usando NestJS + PostgreSQL</p>
+<p>DTO, TypeORM, Class Validator</p>
+<br/><br/>
 <p align="center">ANOTAÇÕES:</p>
 <p>
 NestJS<br/><br/>
@@ -46,6 +49,7 @@ export class AppModule {}<br/><br/>
 
 </p>
 <br/><br/><br/>
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
